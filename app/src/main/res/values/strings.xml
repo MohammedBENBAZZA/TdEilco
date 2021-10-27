@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TD2</string>
+    <string name="message">Salut tout le monde</string>
+    <string name="mdp">mot de passe</string>
+</resources>
